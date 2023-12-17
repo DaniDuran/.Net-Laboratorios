@@ -1,3 +1,6 @@
 [submodule "Practica-Bogus"]
 	path = Practica-Bogus
 	url = https://github.com/DaniDuran/Practica-Bogus.git
+[submodule "ms-laboratorio-graphql-documento"]
+	path = ms-laboratorio-graphql-documento
+	url = https://github.com/DaniDuran/graphql-carga-documento.git
