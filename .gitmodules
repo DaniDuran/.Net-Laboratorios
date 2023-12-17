@@ -4,3 +4,6 @@
 [submodule "ms-laboratorio-graphql-documento"]
 	path = ms-laboratorio-graphql-documento
 	url = https://github.com/DaniDuran/graphql-carga-documento.git
+[submodule "Ejemplo-proyecto-graphql"]
+	path = Ejemplo-proyecto-graphql
+	url = https://github.com/DaniDuran/Practica-Example-GraphQL.git
